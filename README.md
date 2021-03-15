@@ -7,11 +7,14 @@ The purpose of this project is quickly construct a series of macros using VBA to
 Code was then refactored using VBA script from the module to make it run more efficiently.  This will allow it to save time and perform faster than the simple initial VBA code. Performance improvement were captured with a timer.  Additionally output tables were compared from the original module and the refactored code to make sure the value outputs matched.
 
 ### Results
-Fig 1 ![Original_AllStockAnalysis 2017 Performance](Resources/Module_2_AllStockAnalysis_2017.png)
+Fig 1 ![Original 2017 Performance](Resources/Module_2_AllStockAnalysis_2017.png)
 
-Fig 2 ![Refactored AllStockAnalysis 2017 Performance](Resources/VBA_Challenge_2017.png)
+Fig 2 ![Refactored 2017 Performance](Resources/Vba_Challenge_2017.png)
 
 
+Fig 3 ![Original 2018 Performance](Resources/Module_2_AllStockAnalysis_2018.png)
+
+Fig 4 ![Refactored 2018 Performance](Resources/Vba_Challenge_2018.png)
 
 
 ### Summary
