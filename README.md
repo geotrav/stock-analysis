@@ -8,14 +8,19 @@ Code was then refactored using VBA script from the module to make it run more ef
 
 ### Results
 
-Fig 1 ![Original 2017 Performance](Resources/Module_2_AllStockAnalysis_2017.png)
 
-Fig 2 ![Refactored 2017 Performance](Resources/Vba_Challenge_2017.png)
+Fig 1 ![2017 Stock Performance](Resources/AllStocks_2017.png)
+
+Fig 2 ![2018 Stock_Performance](Resources/AllStocks_2018.png)
+
+Fig 3 ![Original 2017 Performance](Resources/Module_2_AllStockAnalysis_2017.png)
+
+Fig 4 ![Refactored 2017 Performance](Resources/Vba_Challenge_2017.png)
 
 
-Fig 3 ![Original 2018 Performance](Resources/Module_2_AllStockAnalysis_2018.png)
+Fig 5 ![Original 2018 Performance](Resources/Module_2_AllStockAnalysis_2018.png)
 
-Fig 4 ![Refactored 2018 Performance](Resources/Vba_Challenge_2018.png)
+Fig 6 ![Refactored 2018 Performance](Resources/Vba_Challenge_2018.png)
 
 
 ### Summary
